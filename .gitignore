@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# vendored third-party dependency (its own repo: dscripka/openWakeWord)
+openWakeWord/
